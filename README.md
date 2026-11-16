@@ -14,3 +14,5 @@ Create your node.js server file index.js and add the code needed to serve the ri
     localhost:8080/contact-me should take users to contact-me.html
     404.html should display any time the user tries to go to a page not listed above.
 
+then...
+Rewrite the app to use express

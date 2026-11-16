@@ -1,0 +1,18 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "Make a project directory and create the following files inside that directory:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-basic-informational-site:meads/basic-informational-site.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
